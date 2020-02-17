@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordSearch", "mis-3013-002-201920-homework-3-johnking99\WordSearch\WordSearch.csproj", "{4BD4E2F6-704F-49E5-8A06-466B7B4A3AED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameFormat", "NameFormat\NameFormat.csproj", "{C544E0E1-B1DD-4396-89F1-D7F72B998B12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NameFormat", "NameFormat\NameFormat.csproj", "{C544E0E1-B1DD-4396-89F1-D7F72B998B12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
